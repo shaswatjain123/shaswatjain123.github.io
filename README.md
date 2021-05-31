@@ -10,8 +10,8 @@
       Party Name with Address:
       <input type="text" name="party">
       <br>
-      Phone Number:
+      Phone Number:   
       <input type="text" name="number">
       </form>
-  </body>
+    </body>
     </html>
