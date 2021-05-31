@@ -10,8 +10,10 @@
     <form method="post" action="http://server1">
       Party Name with Address:
       <input type="text" name="party">
+      <br>
       Phone Number:
       <input type="text" name="number">
+      <br>
       Party Name:
       <input type="text" name="party">
       </center>
