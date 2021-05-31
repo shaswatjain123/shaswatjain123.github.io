@@ -4,10 +4,13 @@
     </center>
     <center><h1 style="color: blue;">Welcome to Pustak Vatika</h1>
     </center>
+    <h1>Order Form</h1>
     <div >
+      <center>
     <form method="post" action="http://server1">
       Party Name:
       <input type="text" name="party">
+      <center>
       </form>
     </div>
   </body>
