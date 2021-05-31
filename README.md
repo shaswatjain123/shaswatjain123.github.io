@@ -8,9 +8,13 @@
     <div >
       <center>
     <form method="post" action="http://server1">
+      Party Name with Address:
+      <input type="text" name="party">
+      Phone Number:
+      <input type="text" name="number">
       Party Name:
       <input type="text" name="party">
-      <center>
+      </center>
       </form>
     </div>
   </body>
