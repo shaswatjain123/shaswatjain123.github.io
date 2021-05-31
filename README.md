@@ -18,6 +18,5 @@
       <input type="text" name="party">
       </center>
       </form>
-    </div>
   </body>
     </html>
