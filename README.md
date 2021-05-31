@@ -13,5 +13,3 @@
       Phone Number:   
       <input type="text" name="number">
       </form>
-    </body>
-    </html>
